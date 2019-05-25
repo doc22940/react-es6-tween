@@ -1,5 +1,7 @@
 # react-es6-tween
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/dalisoft/react-es6-tween.svg)](https://greenkeeper.io/)
+
 An declarative React.js wrapper for es6-tween tweening library
 
 ## Installation
